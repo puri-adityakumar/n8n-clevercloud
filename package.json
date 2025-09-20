@@ -1,0 +1,20 @@
+{
+    "name": "n8n-clever-cloud",
+    "version": "1.0.0",
+    "description": "n8n on clevercloud",
+    "dependencies": {
+        "n8n": "0.125.0"
+    },
+    "scripts": {
+        "start": "./run.sh"
+    },
+    "author": "aditya",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wowi42/n8n-clever-cloud/issues"
+    },
+    "homepage": "https://github.com/wowi42/n8n-clever-cloud#readme",
+    "engines": {
+        "node": "^14"
+    }
+}
